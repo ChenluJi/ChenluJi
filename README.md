@@ -6,6 +6,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chenluji" alt="chenluji" /></a> </p>
 -->
+![cover](https://github.com/ChenluJi/ChenluJi/assets/16791974/d4a69908-2baf-47e7-b8db-9f160db5e3f8)
+
 
 - 🔭 I’m currently working on **end-to-end machine learning and data science projects**
 
