@@ -1,4 +1,4 @@
-name: Medium Posts
+name: Medium Articles
 on:
   schedule:
     # Runs every hour
