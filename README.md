@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chenlu.</h1>
 <h3 align="center">A passionate data scientist and machine learning engineer.</h3>
 
-<!---
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenluji&label=Profile%20views&color=0e75b6&style=flat" alt="chenluji" /> </p>
 -->
 
