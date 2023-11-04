@@ -24,6 +24,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Udacity-Google A/B Testing Project Report](https://medium.com/@jichenlulu/udacity-google-a-b-testing-project-report-a6948c2a02db?source=rss-bbe647a50505------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
